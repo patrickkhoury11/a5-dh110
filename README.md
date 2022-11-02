@@ -75,6 +75,7 @@ Initial Wireframes applied in Wireflow 2, Task 2
 ![wf2](https://user-images.githubusercontent.com/114698093/199509116-7d233592-2175-47c0-9f9a-f28baf69478b.png)
 
 *Valuable Feedback from the user:* 
+
 * "Got stuck here because there is no "apply" button on the different filters. Displaying the item count in the bottom button is helpful to a certain extent, but without an *apply" button I'm not sure how I would have added multiple filters at once. The only options are to view the newly-filtered item list or to hit the back arrow which I'm guessing would just take me back to the general filter page. Maybe would be better to replace the "reset" button with apply" and move "reset" down towards the bottom of the page?"
  
 * "My instinct is to use the search bar here but there's no real indication of how to submit / enter the search and Bas get to the next page - would type and hit' "enter" on mv phone keyboard, would there be a dropdown with auto /suggestions, would I have to select the icon within the search bar to submit? Just unclear how this would work."  
