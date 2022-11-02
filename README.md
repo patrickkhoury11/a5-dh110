@@ -42,9 +42,9 @@ Thus, the low-fidelity prototype supports the following tasks:
 2. Change the bio and link on the profile page
 
 ## Wireframes and Wireflow
-![wf1](https://user-images.githubusercontent.com/114698093/199507035-d42d609f-a6e2-403a-b2b9-4c059c7efa58.png)
 
 ### Initial Wireframe applied in Wireflow 1, Task 1
+![wf1](https://user-images.githubusercontent.com/114698093/199507035-d42d609f-a6e2-403a-b2b9-4c059c7efa58.png)
 
 *Flow Description:* The flow intends for the user to navigate to the shop screen from the home page. Next, the user would have to hit the "Search for anything" button. The user would then search the term "Used desk". After getting to the results page, the user would filter their results by hitting the "Filter" button. They would hit the "Distance" button on the filter menu. Next the user would slide the distance bar to up to 5 miles. The user would then select the "View Items" button. After that, the user would select the item and hit the "Add to Bag" button.
 
