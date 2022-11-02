@@ -75,15 +75,15 @@ Initial Wireframes applied in Wireflow 2, Task 2
 ![wf2](https://user-images.githubusercontent.com/114698093/199509116-7d233592-2175-47c0-9f9a-f28baf69478b.png)
 
 *Valuable Feedback from the user:* 
-"Got stuck here because there is no "apply" button on the different filters. Displaying the item count in the bottom button is helpful to a certain extent, but without an *apply" button I'm not sure how I would have added multiple filters at once. The only options are to view the newly-filtered item list or to hit the back arrow which I'm guessing would just take me back to the general filter page. Maybe would be better to replace the "reset" button with apply" and move "reset" down towards the bottom of the page?"
+* "Got stuck here because there is no "apply" button on the different filters. Displaying the item count in the bottom button is helpful to a certain extent, but without an *apply" button I'm not sure how I would have added multiple filters at once. The only options are to view the newly-filtered item list or to hit the back arrow which I'm guessing would just take me back to the general filter page. Maybe would be better to replace the "reset" button with apply" and move "reset" down towards the bottom of the page?"
  
-"My instinct is to use the search bar here but there's no real indication of how to submit / enter the search and Bas get to the next page - would type and hit' "enter" on mv phone keyboard, would there be a dropdown with auto /suggestions, would I have to select the icon within the search bar to submit? Just unclear how this would work."  
+* "My instinct is to use the search bar here but there's no real indication of how to submit / enter the search and Bas get to the next page - would type and hit' "enter" on mv phone keyboard, would there be a dropdown with auto /suggestions, would I have to select the icon within the search bar to submit? Just unclear how this would work."  
 
-"None of the profile information labels are underlined / in a button / otherwise guide me to know if I'm supposed to click into the labels to edit, or if the edit function comes up if I click into the text."  
+* "None of the profile information labels are underlined / in a button / otherwise guide me to know if I'm supposed to click into the labels to edit, or if the edit function comes up if I click into the text."  
 
-"Was confused with "done" button and what next frame would potentially be, didn't know if it would just go back to main profile page or save the edits and go back to edit profile page. Would be more clear if it said "save changes" or something"
+* "Was confused with "done" button and what next frame would potentially be, didn't know if it would just go back to main profile page or save the edits and go back to edit profile page. Would be more clear if it said "save changes" or something"
 
-"Here, "done" button took me back to the main profile page, not the edit profile page like it did before, which is confusing / inconsistent. Think the "done" button can stay "Done” on the edit profile page as an indicator that you are done with all edits and should take you back to the main profile page, and the individual edit pages should have a "save changes" button that takes you back to the edit profile page."
+* "Here, "done" button took me back to the main profile page, not the edit profile page like it did before, which is confusing / inconsistent. Think the "done" button can stay "Done” on the edit profile page as an indicator that you are done with all edits and should take you back to the main profile page, and the individual edit pages should have a "save changes" button that takes you back to the edit profile page."
 
 ## Reflection:
 
