@@ -42,7 +42,8 @@ Thus, the low-fidelity prototype supports the following tasks:
 2. Change the bio and link on the profile page
 
 ## Wireframes and Wireflow
-![Wireflow Stage 1](https://user-images.githubusercontent.com/59623155/74673232-b0520980-5163-11ea-8b9e-a3696b4758b9.jpg)
+![wf1](https://user-images.githubusercontent.com/114698093/199507035-d42d609f-a6e2-403a-b2b9-4c059c7efa58.png)
+
 
 *Flow Description:* The flow intends for the user to search for their bundle trip based on their departure and arrival city or airport, dates of travel, number of travelers, and travel budget (optional). Based on the hotel results, a user can sort or filter the list by hotel name, star rating, and amenities. After clicking on a hotel, a user can view and sort ratings based on their search query and trip purpose. After selecting the room, a user will select an inbound and outbound flight to and from their travel destination. Again, based on their search results, a user has the option to sort or filter flights by duration, stops, time, and airline. After selecting both flights, the user will be directed to a trip summary of their hotel and flight selections. The user has the option to change their selections. If they are satisfied with their selections, the user can proceed to pay for their flight. They will input their passenger and payment details and have the option to insure their trip. Clicking on "Complete Booking" signifies the completion of the travel booking process.  
 
