@@ -15,10 +15,10 @@ The following wireframes serve as the foundation of the application. The five wi
 
 *From left to right:*
 * Home page: This is the page where all posts from accounts the user follows will appear. Furthermore, environmental facts will appear on this page. The user may search for accounts, direct message other users, turn on/off post notifications, and create posts from  this page.
-Shop: This is where the user can buy or sell second-hand or refurbished items. The user can search for or save any particular items they like. They may also leave reviews for items they have bought.
-Rides: This is where the user can carpool or commute group to a destination. Carpooling is used to get from Point A to Point B whenever the user needs. Commute groups are used for recurring rides to work, school, or wherever else the user's commute might take them. 
-Events: This is where the user can create or sign up for environmental events. Users are able to save events, invite their friends, or get any additional information they may need in this page. There is also a search and filter feature available.
-Profile: This is where the user can view or edit how their profile looks to others utilizing the app. Users' profile picture, bio, link, posts, etc are all present in this page. 
+* Shop: This is where the user can buy or sell second-hand or refurbished items. The user can search for or save any particular items they like. They may also leave reviews for items they have bought.
+* Rides: This is where the user can carpool or commute group to a destination. Carpooling is used to get from Point A to Point B whenever the user needs. Commute groups are used for recurring rides to work, school, or wherever else the user's commute might take them. 
+* Events: This is where the user can create or sign up for environmental events. Users are able to save events, invite their friends, or get any additional information they may need in this page. There is also a search and filter feature available.
+* Profile: This is where the user can view or edit how their profile looks to others utilizing the app. Users' profile picture, bio, link, posts, etc are all present in this page. 
 
 ## Persona-based Tasks
 I created two personas in the previous assignment based on my findings from my interviews and analysis. The story of each persona from the previous step will be presented below. I will also create key scenarios which illustrate a different activity/task to accomplish a feature inspired by the users’ personas. 
