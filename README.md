@@ -14,7 +14,7 @@ The following wireframes serve as the foundation of the application. The five wi
 ![image](https://user-images.githubusercontent.com/114698093/199420376-5efaf300-243d-408d-8975-b2fc1b30b94e.png)
 
 *From left to right:*
-Home page: This is the page where all posts from accounts the user follows will appear. Furthermore, environmental facts will appear on this page. The user may search for accounts, direct message other users, turn on/off post notifications, and create posts from  this page.
+* Home page: This is the page where all posts from accounts the user follows will appear. Furthermore, environmental facts will appear on this page. The user may search for accounts, direct message other users, turn on/off post notifications, and create posts from  this page.
 Shop: This is where the user can buy or sell second-hand or refurbished items. The user can search for or save any particular items they like. They may also leave reviews for items they have bought.
 Rides: This is where the user can carpool or commute group to a destination. Carpooling is used to get from Point A to Point B whenever the user needs. Commute groups are used for recurring rides to work, school, or wherever else the user's commute might take them. 
 Events: This is where the user can create or sign up for environmental events. Users are able to save events, invite their friends, or get any additional information they may need in this page. There is also a search and filter feature available.
