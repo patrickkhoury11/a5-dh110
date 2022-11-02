@@ -63,10 +63,10 @@ Test User Wireflow 1, Task 1:
 ![wfr1](https://user-images.githubusercontent.com/114698093/199508800-d662d9b3-335e-401f-811e-c439ddcd915f.png)
 
 
-*Confusions and/or unexpected interactions:* 
-The user surprisingly overlooked the dropdown menu frame when mentally going through the search input for flight departure and arrival airport. This makes sense due to the nature of the paper prototype where the airport is already inputted. The user was aware of the city and airport code. This would be interesting to see how helpful the dropdown menu would be for a user who is unaware of their travel destination and surrounding airports. More specifically, which airport do they need to fly into if necessary.
+*Valuable Feedback from the user:* 
+"I think it would be more clear if the ends of the bar were labeled "Min" and "Max" or something along those lines. Might also be helpful to have preset mile notches in the bar (like 5, 25, 50, 100 miles) because I don't know how "up to 5 miles" pops up." 
 
-The user was confused about the frame where you can further sort through reviews. Because they did not need to sort further through reviews, there was no need to utilize the tool and feature. When asked what they thought the objective of the process was, they correctly assumed that the feature would help narrow down previous reviews of the hotel. In order to properly test these features, I asked the user to complete the iteration of the wireflow again with the intention of utilizing these features given what they are *supposed to do*. 
+"When following the recommendation tool, the user was hesitant to filter and sort by ratings. The feature was intended for the user to select specific ratings, for example, only ratings with a 4/5 and 5/5 rating. With this understanding, the user decided not to sort by rating because she wanted to look at all ratings, regardless of how they scored the hotel. After testing, the user asked me if this was the correct interpretation. Additionally, after pressing **Done**, the user expected to return to the list of reviews. The flow instead returned to the information about the hotel. This was an error on my part in how I designed the flow."
 
 ### Task 2
 
@@ -74,10 +74,16 @@ Initial Wireframes applied in Wireflow 2, Task 2
 
 ![wf2](https://user-images.githubusercontent.com/114698093/199509116-7d233592-2175-47c0-9f9a-f28baf69478b.png)
 
-*Confusions and/or unexpected interactions:* 
-The user again did not follow the flow to the dropdown menu when inputting the departure and arrival airport. The user was correctly able to navigate the price tool to the page and interpreted that if they changed their departure airport from LAX to BUR, they could lower the price of their trip. Despite this understanding, the user decided to ignore the suggestion and go back to the original results. 
+*Valuable Feedback from the user:* 
+"Got stuck here because there is no "apply" button on the different filters. Displaying the item count in the bottom button is helpful to a certain extent, but without an *apply" button I'm not sure how I would have added multiple filters at once. The only options are to view the newly-filtered item list or to hit the back arrow which I'm guessing would just take me back to the general filter page. Maybe would be better to replace the "reset" button with apply" and move "reset" down towards the bottom of the page?"
+ 
+"My instinct is to use the search bar here but there's no real indication of how to submit / enter the search and Bas get to the next page - would type and hit' "enter" on mv phone keyboard, would there be a dropdown with auto /suggestions, would I have to select the icon within the search bar to submit? Just unclear how this would work."  
 
-When following the recommendation tool, the user was hesitant to filter and sort by ratings. The feature was intended for the user to select specific ratings, for example, only ratings with a 4/5 and 5/5 rating. With this understanding, the user decided not to sort by rating because she wanted to look at all ratings, regardless of how they scored the hotel. After testing, the user asked me if this was the correct interpretation. Additionally, after pressing **Done**, the user expected to return to the list of reviews. The flow instead returned to the information about the hotel. This was an error on my part in how I designed the flow.  
+"None of the profile information labels are underlined / in a button / otherwise guide me to know if I'm supposed to click into the labels to edit, or if the edit function comes up if I click into the text."  
+
+"Was confused with "done" button and what next frame would potentially be, didn't know if it would just go back to main profile page or save the edits and go back to edit profile page. Would be more clear if it said "save changes" or something"
+
+"Here, "done" button took me back to the main profile page, not the edit profile page like it did before, which is confusing / inconsistent. Think the "done" button can stay "Done” on the edit profile page as an indicator that you are done with all edits and should take you back to the main profile page, and the individual edit pages should have a "save changes" button that takes you back to the edit profile page."
 
 ## Reflection:
 
