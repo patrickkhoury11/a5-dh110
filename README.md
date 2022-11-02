@@ -35,13 +35,9 @@ Persona 2: Chloe’s Story - the work-a-holic
 Task 2:
 * Chloe recently won the election to become the Vice President of the Ocean Resources for Conservation and Advocacy (ORCA) organization. They are holding their first meeting this upcoming Friday. Chloe would like to change her bio in the application to show off her new title and publish the sign-up link to her profile so her followers can sign up to come to the first official meeting.
 
-
-The low-fidelity prototype supports the following tasks:
-1. Input search field
-2. Select an inbound flight
-3. Select an outbound flight
-4. Select a hotel
-5. Pay for and book the trip 
+Thus, the low-fidelity prototype supports the following tasks:
+1. Shop for a second-hand desk within a 5 mile radius
+2. Change the bio and link on the profile page
 
 ## Wireframes and Wireflow
 ![Wireflow Stage 1](https://user-images.githubusercontent.com/59623155/74673232-b0520980-5163-11ea-8b9e-a3696b4758b9.jpg)
