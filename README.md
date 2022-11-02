@@ -13,6 +13,8 @@ The following wireframes (pdf version linked ![here] serve as the foundation of 
 
 ![image](https://user-images.githubusercontent.com/114698093/199420376-5efaf300-243d-408d-8975-b2fc1b30b94e.png)
 
+
+
 *From left to right:*
 * Home page: This is the page where all posts from accounts the user follows will appear. Furthermore, environmental facts will appear on this page. The user may search for accounts, direct message other users, turn on/off post notifications, and create posts from  this page.
 * Shop: This is where the user can buy or sell second-hand or refurbished items. The user can search for or save any particular items they like. They may also leave reviews for items they have bought.
