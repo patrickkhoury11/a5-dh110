@@ -63,10 +63,10 @@ Test User Wireflow 1, Task 1:
 ![wfr1](https://user-images.githubusercontent.com/114698093/199508800-d662d9b3-335e-401f-811e-c439ddcd915f.png)
 
 
-*Valuable Feedback from the user:* 
-"I think it would be more clear if the ends of the bar were labeled "Min" and "Max" or something along those lines. Might also be helpful to have preset mile notches in the bar (like 5, 25, 50, 100 miles) because I don't know how "up to 5 miles" pops up." 
+Valuable Feedback from the user:
+* "I think it would be more clear if the ends of the bar were labeled "Min" and "Max" or something along those lines. Might also be helpful to have preset mile notches in the bar (like 5, 25, 50, 100 miles) because I don't know how "up to 5 miles" pops up." 
 
-"When following the recommendation tool, the user was hesitant to filter and sort by ratings. The feature was intended for the user to select specific ratings, for example, only ratings with a 4/5 and 5/5 rating. With this understanding, the user decided not to sort by rating because she wanted to look at all ratings, regardless of how they scored the hotel. After testing, the user asked me if this was the correct interpretation. Additionally, after pressing **Done**, the user expected to return to the list of reviews. The flow instead returned to the information about the hotel. This was an error on my part in how I designed the flow."
+* "When following the recommendation tool, the user was hesitant to filter and sort by ratings. The feature was intended for the user to select specific ratings, for example, only ratings with a 4/5 and 5/5 rating. With this understanding, the user decided not to sort by rating because she wanted to look at all ratings, regardless of how they scored the hotel. After testing, the user asked me if this was the correct interpretation. Additionally, after pressing **Done**, the user expected to return to the list of reviews. The flow instead returned to the information about the hotel. This was an error on my part in how I designed the flow."
 
 ### Task 2
 
@@ -74,7 +74,7 @@ Initial Wireframes applied in Wireflow 2, Task 2
 
 ![wf2](https://user-images.githubusercontent.com/114698093/199509116-7d233592-2175-47c0-9f9a-f28baf69478b.png)
 
-*Valuable Feedback from the user:* 
+Valuable Feedback from the user:*
 
 * "Got stuck here because there is no "apply" button on the different filters. Displaying the item count in the bottom button is helpful to a certain extent, but without an *apply" button I'm not sure how I would have added multiple filters at once. The only options are to view the newly-filtered item list or to hit the back arrow which I'm guessing would just take me back to the general filter page. Maybe would be better to replace the "reset" button with apply" and move "reset" down towards the bottom of the page?"
  
