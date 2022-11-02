@@ -1,6 +1,6 @@
 # Assignment 05: Low-Fidelity Prototype
 
-Patrick Khoury | DH110 | Dr. Sookie Cho
+Patrick Khoury | DH110 | Dr. Sookie Cho |
 
 ## Project Description
 
