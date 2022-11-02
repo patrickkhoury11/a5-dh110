@@ -13,8 +13,29 @@ The following wireframes serve as the foundation of the application. The five wi
 
 ![image](https://user-images.githubusercontent.com/114698093/199420376-5efaf300-243d-408d-8975-b2fc1b30b94e.png)
 
+*From left to right:*
+Home page: This is the page where all posts from accounts the user follows will appear. Furthermore, environmental facts will appear on this page. The user may search for accounts, direct message other users, turn on/off post notifications, and create posts from  this page.
+Shop: This is where the user can buy or sell second-hand or refurbished items. The user can search for or save any particular items they like. They may also leave reviews for items they have bought.
+Rides: This is where the user can carpool or commute group to a destination. Carpooling is used to get from Point A to Point B whenever the user needs. Commute groups are used for recurring rides to work, school, or wherever else the user's commute might take them. 
+Events: This is where the user can create or sign up for environmental events. Users are able to save events, invite their friends, or get any additional information they may need in this page. There is also a search and filter feature available.
+Profile: This is where the user can view or edit how their profile looks to others utilizing the app. Users' profile picture, bio, link, posts, etc are all present in this page. 
 
-## Tasks
+## Persona-based Tasks
+I created two personas in the previous assignment based on my findings from my interviews and analysis. The story of each persona from the previous step will be presented below. I will also create key scenarios which illustrate a different activity/task to accomplish a feature inspired by the users’ personas. 
+
+Persona 1: Alex’s Story - the new kid
+Alex is an outgoing 19 year old who moved from gloomy Louisiana to sunny San Diego for school. Alex instantly fell in love with Southern California culture and developed a love for surfing in his first year at UCSD, but can’t go as much as he would like to because he does not have a car and Uber is too expensive for daily travel. Alex wasn’t great friends with his old roommates, but looks up to his new one, Noah, who is from Carlsbad and seems to fit right into life in San Diego. In an attempt to be more like Noah, Alex buys cheap clothing and accessories from Shein. When the package arrives, Alex shows Noah, however he does not get the reaction he was anticipating. Noah berrates Alex for buying from Shein, as they have a history of awful working conditions and participates in fast fashion, contributing waste to landfills and harming the environment. Alex had no knowledge of this, as sustainability practice is not popular in Louisiana. This leaves Alex confused and disappointed. Alex is determined to fit into his desired lifestyle at UCSD, but does not have large sums of spending money or the knowledge about sustainability practices to achieve his goal.
+
+Task 1:
+Alex needs a cheap desk for his apartment after living life in the dorms his freshman year. Alex would like his desk to be second-hand, as his roommate Noah is passionate about sustainable living. Alex does not own a car, so he would like the desk to be in a 5 mile radius from UCSD.
+
+Persona 2: Chloe’s Story - the work-a-holic
+Chloe is a social butterfly who loves to interact in groups. She recently moved to Union City, NJ for work from Laguna Beach, CA and has yet to make significant friends. Chloe’s job functions as a hybrid system, with her only needing to come into work once every week. Despite this, her job is extremely demanding, requiring her to work long hours to complete projects. Chloe, being from a beach town in California, is extremely passionate about the environment and its well-being, but realizes her typically sustainable living style has shifted due to her demanding work schedule and new environment. Furthermore, Chloe misses her friends from home and spends whatever free time she has scrolling on social media, reminiscing about her old life in Laguna Beach. After her fourth consecutive week of the same routine which leaves Chloe feeling depressed and unfulfilled, Chloe decides to talk to a coworker next in-person work day in hopes of making a change.
+
+Task 2:
+Chloe recently won the election to become the Vice President of the Ocean Resources for Conservation and Advocacy (ORCA) organization. They are holding their first meeting this upcoming Friday. Chloe would like to change her bio in the application to show off her new title and publish the sign-up link to her profile so her followers can sign up to come to the first official meeting.
+
+
 The low-fidelity prototype supports the following tasks:
 1. Input search field
 2. Select an inbound flight
