@@ -44,12 +44,12 @@ Thus, the low-fidelity prototype supports the following tasks:
 ## Wireframes and Wireflow
 ![wf1](https://user-images.githubusercontent.com/114698093/199507035-d42d609f-a6e2-403a-b2b9-4c059c7efa58.png)
 
-Initial Wireframe applied in Wireflow 1, Task 1
+### Initial Wireframe applied in Wireflow 1, Task 1
 
 *Flow Description:* The flow intends for the user to navigate to the shop screen from the home page. Next, the user would have to hit the "Search for anything" button. The user would then search the term "Used desk". After getting to the results page, the user would filter their results by hitting the "Filter" button. They would hit the "Distance" button on the filter menu. Next the user would slide the distance bar to up to 5 miles. The user would then select the "View Items" button. After that, the user would select the item and hit the "Add to Bag" button.
 
 
-Initial Wireframe applied in Wireflow 2, Task 2
+### Initial Wireframe applied in Wireflow 2, Task 2
 ![wf2](https://user-images.githubusercontent.com/114698093/199509274-348054b9-da0d-497d-a2f3-badc3dc66fbc.png)
 
 *Flow Description:* The flow intends for the user to navigate to the profile screen from the home page. Next, the user would have to hit the "Edit Profile" button. The user would then hit the "Bio" section and select on the existing text. The user would replace this text with the desired text and hit done. After returning to the "Edit Profile" page, the user then hit the "Links" section. The user would then hit the "Add External Link" button and replace the existing link with the desired link and title. Finally, the user would hit the "Done" button and return to their updated profile page.
